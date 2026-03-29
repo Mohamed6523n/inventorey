@@ -1,7 +1,7 @@
 # inventorey
-Live Demo : https://youtu.be/ia2p0ek2L-Q?si=gIknEKkIcNi-fSve
 Admin Dashboard System 
 A modern and responsive Admin Dashboard built to manage application data efficiently. This project provides a clean interface for handling products, users, and orders with full CRUD functionality.  
+Live Demo : https://youtu.be/ia2p0ek2L-Q?si=gIknEKkIcNi-fSve
 ## 🚀 Features  
 - Dashboard overview with key insights  
 - Product, user, and order management  
